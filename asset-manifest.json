@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gabs-react-port/static/css/main.3d48d932.chunk.css",
+    "main.js": "/gabs-react-port/static/js/main.8c49e34d.chunk.js",
+    "main.js.map": "/gabs-react-port/static/js/main.8c49e34d.chunk.js.map",
+    "runtime-main.js": "/gabs-react-port/static/js/runtime-main.eea15ff9.js",
+    "runtime-main.js.map": "/gabs-react-port/static/js/runtime-main.eea15ff9.js.map",
+    "static/js/2.5c9d0a09.chunk.js": "/gabs-react-port/static/js/2.5c9d0a09.chunk.js",
+    "static/js/2.5c9d0a09.chunk.js.map": "/gabs-react-port/static/js/2.5c9d0a09.chunk.js.map",
+    "static/js/3.2298d830.chunk.js": "/gabs-react-port/static/js/3.2298d830.chunk.js",
+    "static/js/3.2298d830.chunk.js.map": "/gabs-react-port/static/js/3.2298d830.chunk.js.map",
+    "index.html": "/gabs-react-port/index.html",
+    "static/css/main.3d48d932.chunk.css.map": "/gabs-react-port/static/css/main.3d48d932.chunk.css.map",
+    "static/js/2.5c9d0a09.chunk.js.LICENSE.txt": "/gabs-react-port/static/js/2.5c9d0a09.chunk.js.LICENSE.txt",
+    "static/media/Proj-bw.cabd249e.jpg": "/gabs-react-port/static/media/Proj-bw.cabd249e.jpg",
+    "static/media/Proj-js.201c9ba6.jpg": "/gabs-react-port/static/media/Proj-js.201c9ba6.jpg",
+    "static/media/Proj-lt.bac4aa1e.jpg": "/gabs-react-port/static/media/Proj-lt.bac4aa1e.jpg",
+    "static/media/Proj-wds.d1eabda9.jpg": "/gabs-react-port/static/media/Proj-wds.d1eabda9.jpg",
+    "static/media/gabiabout.12711967.jpeg": "/gabs-react-port/static/media/gabiabout.12711967.jpeg",
+    "static/media/resume.72c66aec.jpg": "/gabs-react-port/static/media/resume.72c66aec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea15ff9.js",
+    "static/js/2.5c9d0a09.chunk.js",
+    "static/css/main.3d48d932.chunk.css",
+    "static/js/main.8c49e34d.chunk.js"
+  ]
+}
