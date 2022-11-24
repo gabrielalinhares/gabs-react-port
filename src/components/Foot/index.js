@@ -8,7 +8,7 @@ function Nav() {
   return (
     <footer data-testid="footer" className="flex-row px-1">
       <h2>
-        <a href="/">
+        <a href="https://gabrielalinhares.github.io/gabs-react-port/>
           <span role="img" aria-label="camera">
             {" "}
             ☝
